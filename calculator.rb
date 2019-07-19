@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "string"
+first_number = 7
